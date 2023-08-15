@@ -33,7 +33,7 @@ def after_request(response):
 
 @app.route("/")
 def hello_world():
-    return "<p>Hello, LoL!</p>"
+    return "<p>Hello, APA!</p>"
 
 
 FOLDER = '/tmp/'
